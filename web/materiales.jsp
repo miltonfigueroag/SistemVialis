@@ -8,7 +8,7 @@
         <%@include file="header.txt"%>
     </head>
     <body>
-     
+     hola 
         <div id="wrapper">
             <%@include file="menu.jspf" %>
             <div id="page-wrapper">
